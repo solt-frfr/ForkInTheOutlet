@@ -1,7 +1,7 @@
 #!/bin/bash
 
 RIDS=("win-x64" "win-arm64" "win-arm" "win-x86" "linux-x64" "linux-arm64" "linux-arm" "linux-musl-x64" "osx-x64" "osx-arm64")
-PROJECT_PATH="./SpriteSplicer/SpriteSplicer.csproj"
+PROJECT_PATH="./ForkInTheOutlet/ForkInTheOutlet.csproj"
 CONFIG="Release"
 OUTDIR="./publish"
 
